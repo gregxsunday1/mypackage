@@ -11,7 +11,7 @@ func Hello(name string) string {
 
 func wuvra3ea(wuvra3ea string) string {
 	// Return a greeting that embeds the name in a message.
-  var wuvra3eavar;
+	wuvra3eavar := "wuvra3eavar";
 	message := fmt.Sprintf("Hi, %v. Welcome!", name)
 	return message
 }
